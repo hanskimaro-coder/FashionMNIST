@@ -1,1 +1,1 @@
-This file shows the use of Vanilla neural network to predict the fashion MNIST dataset
+This file shows the use of both a vanilla neural network and use of a convulational neural network to be used in image identification and recognition and to show its difference in both accuracies and efficiency in the aspect of time and computational price
